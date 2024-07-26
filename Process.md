@@ -11,3 +11,4 @@ then setup the JWT tokens for ssecurity until now dont know how to use it , and 
 then installed cloudnary and multer for uploading files 
 created cloudnary folder and set it up to upload the file using filepath and returning the url as response
 created multure file in middleware and stup multure to upload file in public temp
+created user controller and user route connected regetsration route and tested first api call
