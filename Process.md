@@ -10,3 +10,4 @@ install and used bcrypt hook to increapt and Matching the password using middlew
 then setup the JWT tokens for ssecurity until now dont know how to use it , and created two methods for Access token and refresh token with there respective expiry
 then installed cloudnary and multer for uploading files 
 created cloudnary folder and set it up to upload the file using filepath and returning the url as response
+created multure file in middleware and stup multure to upload file in public temp
